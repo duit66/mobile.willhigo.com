@@ -1,0 +1,3 @@
+git remote add origin https://github.com/duit66/mobile.hkotek.com.git
+git branch -M main
+git push -u origin main
